@@ -35,7 +35,7 @@ const About = () => {
                 {/* <button onClick={toggleModal} className="ib-button">
                   Read More
                 </button> */}
-                <Link className="ib-button" to={{ pathname: "https://drive.google.com/file/d/1bi_Rrb70OzcZ4AKqVcKy3BoNK5TcjPu0/view" }} target="_blank">Resume</Link>
+                <Link className="ib-button" to={{ pathname: "https://drive.google.com/file/d/1GcfWbBf_BnidyZOSwdLladkvOlnHovq1/view?usp=sharing" }} target="_blank">Resume</Link>
               </div>
               {/* END TOKYO BUTTON */}
             </div>

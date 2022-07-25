@@ -757,7 +757,7 @@ const Portfolio = () => {
                         <div
                           className="main"
                           style={{
-                            backgroundImage: "url(assets/img/portfolio/11.jpg)",
+                            backgroundImage: "url(assets/img/portfolio/17.jpg)",
                           }}
                         ></div>
                       </div>
