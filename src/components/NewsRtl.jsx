@@ -240,7 +240,7 @@ const NewsRtl = () => {
                         <div
                           className="main"
                           style={{
-                            backgroundImage: "url(assets/img/news/2.jpg)",
+                            backgroundImage: "url(assets/img/news/15.jpg)",
                           }}
                         ></div>
                       </div>
