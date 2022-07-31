@@ -15,7 +15,7 @@ const NotFound = () => {
           {/* END LOGO */}
           <div className="copyright">
             <p>
-              &copy; 2022 Vladimir Radovanovic
+              {/* &copy; 2022 Vladimir Radovanovic */}
               {/* <br /> Created by
               <a
                 href="https://themeforest.net/user/ib-themes"

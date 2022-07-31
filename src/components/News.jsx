@@ -35,7 +35,7 @@ const News = () => {
           </div>
         </div>
         {/* END TITLE */}
-        <div className="skills-container">
+        <div className="skills-container list_inner">
         <i className="devicon-javascript-plain"></i>
         <i className="devicon-react-original-wordmark"></i>
         <i className="devicon-redux-original"></i>
